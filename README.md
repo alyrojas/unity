@@ -35,10 +35,10 @@
 ## Código Fuente
 
 * Lección 1
-  * > Prototipo 1
+  * > [Prototipo 1](https://github.com/alyrojas/unity/tree/main/Lecciones/Lecci%C3%B3n_1)
 * Lección 2
-  * > Prototipo 2
-  * > Evidencia 
+  * > [Prototipo 2](https://github.com/alyrojas/unity/tree/main/Lecciones/Lecci%C3%B3n_2)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Lecci%C3%B3n_2/LECCION2_AlyneElizabethRojasGloria.pdf)
 * Lección 3
   * > Prototipo 3
 * Lección 4
@@ -46,10 +46,6 @@
 * Lección 5
   * > Prototipo 5
 * VideoJuego
-
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
 Alyne Elizabeth Rojas Gloria
