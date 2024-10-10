@@ -35,30 +35,16 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 1
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 2
+  * > Evidencia 
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 3
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 4
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Prototipo 5
 * VideoJuego
 
 ## Planificación
