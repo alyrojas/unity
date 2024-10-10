@@ -32,7 +32,7 @@
   * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Lecci%C3%B3n_2/LECCION2_AlyneElizabethRojasGloria.pdf)
 * Lección 3
   * > [Animations 2D](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D.unitypackage)
-    > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D_AlyneElizabethRojasGloria.pdf)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D_AlyneElizabethRojasGloria.pdf)
 * Lección 4
   * > Prototipo 4
 * Lección 5
