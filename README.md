@@ -31,10 +31,11 @@
   * > [Prototipo 2](https://github.com/alyrojas/unity/blob/main/Lecciones/Lecci%C3%B3n_2/prototipo2.unitypackage)
   * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Lecci%C3%B3n_2/LECCION2_AlyneElizabethRojasGloria.pdf)
 * Lección 3
-  * > [Animations 2D](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D.unitypackage)
+  * > [Animations 2DParte_1](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D.unitypackage)
   * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D/Animations2D_AlyneElizabethRojasGloria.pdf)
 * Lección 4
-  * > Prototipo 4
+  * > [Animations 2D_Parte_2](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte2/Animations2D_P2.unitypackage)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte2/Animations2D_P2_AlyneElizabethRojasGloria.pdf)
 * Lección 5
   * > Prototipo 5
 * VideoJuego
