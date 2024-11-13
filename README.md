@@ -6,22 +6,11 @@
 
 ## Contenido
 
-- [Introducción](#introducción)
-- [Código Fuente](#código-fuente)
+- [Código Fuente Lecciones](#código-fuente-lecciones)
+- [Código Fuente Desafíos](#código-fuente-desafíos)
 - [Autores](#autores)
 - [Copyright](#copyright)
 
-
-## Introducción
-
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
 
 ## Código Fuente Lecciones
 
@@ -40,7 +29,14 @@
   * > [Animations 2D Parte 3](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte3/Animations2D_P3.unitypackage)
   * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte3/Animations2D_P3_AlyneElizabethRojasGloria.pdf)
 * Lección 6
-  * > Prototipo 5
+  * > [Animations 2D Parte 4](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte4/Animations2D_P4.unitypackage)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte4/Animations2D_P4_AlyneElizabethRojasGloria.pdf)
+* Lección 7
+  * > [Animations 2D Parte 5](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte5/Animations2D_P5.unitypackage)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte5/Animations2D_P5_AlyneElizabethRojasGloria.pdf)
+* Lección 8
+  * > [Animations 2D Parte 6](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte6/Animations2D_P6.unitypackage)
+  * > [Evidencia](https://github.com/alyrojas/unity/blob/main/Lecciones/Animations2D_Parte6/Animations2D_P6_AlyneElizabethRojasGloria.pdf)
 * VideoJuego
 
 ## Código Fuente Desafíos
